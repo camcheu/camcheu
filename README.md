@@ -5,6 +5,11 @@
 * UX Designer @ BioTextiles
 * Automation Team Member @ UBC Agroponics
 
+### Hobbies
+* Hobby 1
+* Hobby 2
+* Hobby 3
+
 <!--
 **camcheu/camcheu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
