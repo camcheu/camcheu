@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-### This is another heading
-Hello this is new text.
-* thing one
-* thing two
-
 ### About Me
 * 4th year Biology @ UBC
 * UX Designer @ BioTextiles
