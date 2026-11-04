@@ -3,7 +3,7 @@
 ### About Me
 * 4th year Biology @ UBC
 * UX Designer @ BioTextiles
-* Automation Team Member @ UBC Agroponics
+* Automation Team Member @ UBC AgroBot
 
 ### Hobbies
 * Hobby 1
